@@ -1,0 +1,28 @@
+#hero {
+    background-color: #e4e4e5;
+    padding: 50px 20px;
+    margin-bottom: 20px;
+    }
+    #hero h1 {
+    margin-bottom: 20px;
+    font-size: 35px;
+    }
+    #hero p {
+    margin-bottom: 20px;
+    font-size: 18px;
+    line-height: 25px;
+    }
+ #wrapper {
+        margin: 0;
+        }
+#main {
+            float: left;
+            width: 640px;
+            padding: 20px;
+            }
+
+            #sidebar {
+            float: left;
+            width: 260px;
+            padding: 20px;
+            }    
